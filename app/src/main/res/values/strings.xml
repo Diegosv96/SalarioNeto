@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Actividad 01 Salario</string>
+    <string name="calculadora">CALCULADORA</string>
+    <string name="resultados">RESULTADOS</string>
+    <string name="salario_bruto_anual">Salario bruto anual</string>
+    <string name="_00000">00000</string>
+    <string name="n_mero_de_pagas">Número de pagas</string>
+    <string name="_12">12</string>
+    <string name="_14">14</string>
+    <string name="edad">Edad</string>
+    <string name="_00">00</string>
+    <string name="hijos">Hijos</string>
+    <string name="_0">0</string>
+    <string name="grupo">Grupo</string>
+    <string name="discapacidad">Discapacidad %</string>
+    <string name="estado_civil">Estado civil</string>
+    <string name="casado_soltero">Casado, soltero...</string>
+    <string name="ppp">...</string>
+    <string name="posibles_deducciones">Posibles deducciones</string>
+    <string name="retencion_del_irpf">Retencion del IRPF</string>
+    <string name="salario_neto_mensual">Salario neto mensual</string>
+    <string name="salario_neto_anual">Salario neto anual</string>
+</resources>
